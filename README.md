@@ -5,8 +5,9 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="100" height="50"
 >
-  <text font-size="20" x="10" y="20">
-    <tspan fill="yellow">Preview</tspan>,!
+  <text font-size="16" x="10" y="20">
+    <tspan fill="red">Hello</tspan>,
+    <tspan fill="green">world</tspan>!
   </text>
 </svg>
 <img src="https://github.com/furkanevin/FrontendBootcamp/blob/main/preview.gif"></img>
