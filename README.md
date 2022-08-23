@@ -1,4 +1,3 @@
 # FrontendBootcamp
-<h1 style="color: rgb(255, 251, 0);">
-preview </h1>
+<span style="color:orange;">Preview</span>
 <img src="https://github.com/furkanevin/FrontendBootcamp/blob/main/preview.gif"></img>
